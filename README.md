@@ -1,5 +1,5 @@
 # YAFACR - Yeat Another Fundamental Algorithms C Realization
-C realization of the fundamental Algorithms and Data structures.
+C/C++ realization of the fundamental Algorithms and Data structures.
 
 Currently There is only Boyer-Moore algorithm realization.
 
